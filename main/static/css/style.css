@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+}
+
+div {
+    display: inline-block;
+    width: 200px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 3px;
+}
+/* 
+.farm {
+    display: inline-block;
+    width: 100px;
+    border: 1px solid black;
+} */
